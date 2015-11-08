@@ -26,11 +26,10 @@
             <div class="col-md-12">
                 <div class="post-content">
                     <h2>
-                        <a href="blog_post.html">
-                            Selamat Datang di Website SMAN 1
-                        </a></h2>
+                        Selamat Datang di Sistem Informasi Siswa
+                    </h2>
                     <p>
-                        Kami Menyambut baik terbitnya Website SMAN 1 Wongsorejo yang baru , dengan harapan dipublikasinya website ini sekolah berharap : Peningkatan layanan pendidikan kepada siswa, orangtua, dan masyarakat pada umumnya semakin meningkat. Sebaliknya orangtua dapat mengakses informasi tentang kegiatan akademik dan non akademik putra - puterinya di sekolah ini. Dengan fasilitas ini Siswa dapat mengakses berbagai informasi pembelajaran dan informasi akademik. 
+                    Sistem pengelolaan data siswa secara online berbasis web dan teknologi mutakhir.
                     </p>
                 </div>
             </div>

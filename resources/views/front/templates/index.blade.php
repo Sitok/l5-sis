@@ -7,7 +7,7 @@
     <!--<![endif]-->
     <!-- start: HEAD -->
     <head>
-        <title>SMA Negeri 1</title>
+        <title>Sistem Informasi Siswa</title>
         <!-- start: META -->
         <!--[if IE]><meta http-equiv='X-UA-Compatible' content="IE=edge,IE=9,IE=8,chrome=1" /><![endif]-->
         <meta charset="utf-8" />

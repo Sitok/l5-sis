@@ -13,7 +13,7 @@
                 <!-- end: RESPONSIVE MENU TOGGLER -->
                 <!-- start: LOGO -->
                 <a class="navbar-brand" href="{{url()}}">
-                    SMAN 1
+                    SIS
                 </a>
                 <!-- end: LOGO -->
             </div>

@@ -1,14 +1,5 @@
 <div class="col-md-3">
     <aside class="sidebar">
-        <h4 class="center">KEPALA SEKOLAH SMAN1</h4>
-        <p class="center">
-            <img class="center" src="http://localhost/smanjo/system/application/views/main-web/images/kepala-sekolah.jpg">
-            <br>
-            Drs. Istu Handono
-            <br>
-            NIP. 19641229198903 1 011 
-        </p>
-        <hr>
         @if (!is_null($polling))
         <h4>Polling</h4>
         <p>{{$polling->soal_poll}} <br /></p>

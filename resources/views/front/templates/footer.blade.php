@@ -33,19 +33,19 @@
                     <ul class="contact">
                         <li>
                             <p>
-                                <i class="fa fa-map-marker"></i><strong>Alamat:</strong> Jalan Raya Bengkak, Wongsorejo-Banyuwangi.
+                                <i class="fa fa-map-marker"></i><strong>Alamat:</strong> {{-- alamat --}}
                             </p>
                         </li>
                         <li>
                             <p>
-                                <i class="fa fa-phone"></i><strong>Phone:</strong> (0333) 510166
+                                <i class="fa fa-phone"></i><strong>Phone:</strong> {{-- telp --}}
                             </p>
                         </li>
                         <li>
                             <p>
                                 <i class="fa fa-envelope"></i><strong>Email:</strong>
-                                <a href=" info@sman1-wongsorejo.com">
-                                    info@sman1-wongsorejo.com
+                                <a href="{{-- email --}}">
+                                    {{-- email --}}
                                 </a>
                             </p>
                         </li>
@@ -81,7 +81,7 @@
             <div class="row">
                 <div class="col-md-1">
                     <a class="logo" href="{{url()}}">
-                        SMAN1
+                        SIS
                     </a>
                 </div>
                 <div class="col-md-7">
