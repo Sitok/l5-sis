@@ -11,6 +11,3 @@ Bisa dilihat pada file `seeds/TblKepegawaianTableSeeder.php`.
 Eksekusikan perintah berikut ini untuk meng-query data ke dalam database.
 
     php artisan db:seed
-
----
-@baddwin
